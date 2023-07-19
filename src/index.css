@@ -64,6 +64,11 @@
 
     }
 
+    .influencer-details {
+        padding: 20px;
+        width: 100%
+    }
+
     .blog {
 
         display: flex;
