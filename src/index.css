@@ -1,0 +1,108 @@
+@media screen and (max-width:600px) and (max-height: 800px) {
+    .navbar {
+        width: 100%;
+
+    }
+
+    .about-detail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .header-content {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .about-detail img {
+        width: 100%;
+        margin: auto 0;
+
+    }
+
+    .aboutUs {
+        width: 90%;
+    }
+
+    .about-bottom {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    .about-bottom-container {
+        width: 100%;
+    }
+
+    .influencer-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .influencer-image {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+
+    }
+
+    .blog {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .blog-container {
+        width: 75%;
+    }
+
+    .bookflex {
+        margin: auto;
+        width: 100%;
+    }
+
+    .book-container {
+        width: 90%;
+    }
+
+
+    .bottom-nav {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .bottom-nav-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+        align-content: center;
+        gap: 30px;
+
+    }
+
+    .free-scout {
+        width: 100%;
+
+    }
+
+    .copyrights {
+        padding: 20px;
+        ;
+    }
+}
